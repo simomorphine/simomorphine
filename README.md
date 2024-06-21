@@ -1,10 +1,10 @@
 <h4 align="center">Hi, I'm Mohamed Elwardi 😊, a passionate backend developer 💻 from Morocco 🇲🇦.</h3>
-<img src="https://cdn-icons-png.flaticon.com/512/2714/2714073.png" width="90px" >
-<img src="https://th.bing.com/th/id/OIP.MCkY3mSiuF1aBsY-YDCdDQHaHa?rs=1&pid=ImgDetMain" width="100px" >
-<img src="https://th.bing.com/th/id/R.4505dc63afebb2c6179477f5dc3d78fb?rik=Q50RDrABa6X2Hw&pid=ImgRaw&r=0" width="85px" >
+<img src="https://cdn-icons-png.flaticon.com/512/2714/2714073.png" width="90px" display="inline"> >
+<img src="https://th.bing.com/th/id/OIP.MCkY3mSiuF1aBsY-YDCdDQHaHa?rs=1&pid=ImgDetMain" width="100px" display="inline"> >
+<img src="https://th.bing.com/th/id/R.4505dc63afebb2c6179477f5dc3d78fb?rik=Q50RDrABa6X2Hw&pid=ImgRaw&r=0" width="85px" display="inline"> >
 
-<img src="https://www.freeiconspng.com/uploads/apple-computer-laptop-mac-monitor-screen-icon--icon-search--16.png" width="90px" align="center" alt="Symbols Computer" />
-<img src="https://static.vecteezy.com/system/resources/previews/006/662/139/non_2x/artificial-intelligence-ai-processor-chip-icon-symbol-for-graphic-design-logo-web-site-social-media-mobile-app-ui-illustration-free-vector.jpg" width="90px" >
+<img src="https://www.freeiconspng.com/uploads/apple-computer-laptop-mac-monitor-screen-icon--icon-search--16.png" width="90px" align="center" alt="Symbols Computer" display="inline"> />
+<img src="https://static.vecteezy.com/system/resources/previews/006/662/139/non_2x/artificial-intelligence-ai-processor-chip-icon-symbol-for-graphic-design-logo-web-site-social-media-mobile-app-ui-illustration-free-vector.jpg" width="90px" display="inline">
 <hr>
 <h2 align= "center">About Me</h2>
 <p align = "center">I’m a passionate Backend Developer and AI Enthusiast with a keen interest in creating robust and scalable backend systems. My journey in the tech world has been driven by a love for solving complex problems and a curiosity about the limitless potential of artificial intelligence. Whether it's optimizing database performance, implementing secure APIs, or diving into the latest AI algorithms, I thrive on bringing ideas to life through technology. Let's build smart apps together, harnessing the power of innovation to create cutting-edge solutions that make a real impact!</p>

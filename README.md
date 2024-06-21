@@ -31,7 +31,7 @@
 
 <h2 align="center">Skills</h2>
 
-<p align="center">I specialize in Backend Development, Artificial Intelligence, Database Management, and Software Architecture. My technical skills also include proficiency in C, C++, CSS, Git, HTML, and more.</p>
+<p align="center">I specialize in Backend Development, Artificial Intelligence, Database Management, and Software Architecture. My technical skills also include proficiency in C, C++, HTM, CSS, GitL, and more.</p>
 
 <h2 align="center">Connect with Me</h2>
 

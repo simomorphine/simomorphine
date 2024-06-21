@@ -6,8 +6,9 @@
     <img src="https://cdn-icons-png.flaticon.com/512/2714/2714073.png" width="90px">
     <img src="https://th.bing.com/th/id/OIP.MCkY3mSiuF1aBsY-YDCdDQHaHa?rs=1&pid=ImgDetMain" width="100px">
     <img src="https://th.bing.com/th/id/R.4505dc63afebb2c6179477f5dc3d78fb?rik=Q50RDrABa6X2Hw&pid=ImgRaw&r=0" width="85px">
-    <img src="https://www.freeiconspng.com/uploads/apple-computer-laptop-mac-monitor-screen-icon--icon-search--16.png" width="90px">
+    <img src="https://static.vecteezy.com/system/resources/previews/020/452/886/original/backend-icon-vector.jpg" width="90px">
     <img src="https://static.vecteezy.com/system/resources/previews/006/662/139/non_2x/artificial-intelligence-ai-processor-chip-icon-symbol-for-graphic-design-logo-web-site-social-media-mobile-app-ui-illustration-free-vector.jpg" width="90px">
+    <img src="https://www.uplogictech.com/assets/images/our_expertise_img.png" width="90px">
 </div>
 
 <hr>

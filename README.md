@@ -36,7 +36,7 @@
 
 <p align="center">
     <a href="www.linkedin.com/in/mohammed-elwardi-🇵🇸-721b8b197" target="_blank" rel="noopener noreferrer"><img src="https://img.icons8.com/color/48/000000/linkedin.png" alt="LinkedIn" width="40" height="40"></a>
-    <a href="[https://twitter.com/mohamedelwardi](https://x.com/MohammedElward7)" target="_blank" rel="noopener noreferrer"><img src="https://img.icons8.com/color/48/000000/twitter.png" alt="Twitter" width="40" height="40"></a>
+    <a href="https://x.com/MohammedElward7" target="_blank" rel="noopener noreferrer"><img src="https://img.icons8.com/color/48/000000/twitter.png" alt="Twitter" width="40" height="40"></a>
     <a href="mailto:Mohamedelwardi@yahoo.com" target="_blank" rel="noopener noreferrer"><img src="https://img.icons8.com/color/48/000000/email.png" alt="Email" width="40" height="40"></a>
 </p>
 

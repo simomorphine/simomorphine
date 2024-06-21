@@ -1,11 +1,11 @@
 <h4 align="center">Hi, I'm Mohamed Elwardi 😊, a passionate backend developer 💻 from Morocco 🇲🇦.</h3>
 <div></div>
-<img src="https://cdn-icons-png.flaticon.com/512/2714/2714073.png" width="90px" display="inline"> >
-<img src="https://th.bing.com/th/id/OIP.MCkY3mSiuF1aBsY-YDCdDQHaHa?rs=1&pid=ImgDetMain" width="100px" display="inline"> >
-<img src="https://th.bing.com/th/id/R.4505dc63afebb2c6179477f5dc3d78fb?rik=Q50RDrABa6X2Hw&pid=ImgRaw&r=0" width="85px" display="inline"> >
+<img src="https://cdn-icons-png.flaticon.com/512/2714/2714073.png" width="90px" > >
+<img src="https://th.bing.com/th/id/OIP.MCkY3mSiuF1aBsY-YDCdDQHaHa?rs=1&pid=ImgDetMain" width="100px" > >
+<img src="https://th.bing.com/th/id/R.4505dc63afebb2c6179477f5dc3d78fb?rik=Q50RDrABa6X2Hw&pid=ImgRaw&r=0" width="85px" > >
 
-<img src="https://www.freeiconspng.com/uploads/apple-computer-laptop-mac-monitor-screen-icon--icon-search--16.png" width="90px" align="center" alt="Symbols Computer" display="inline"> />
-<img src="https://static.vecteezy.com/system/resources/previews/006/662/139/non_2x/artificial-intelligence-ai-processor-chip-icon-symbol-for-graphic-design-logo-web-site-social-media-mobile-app-ui-illustration-free-vector.jpg" width="90px" display="inline">
+<img src="https://www.freeiconspng.com/uploads/apple-computer-laptop-mac-monitor-screen-icon--icon-search--16.png" width="90px" align="center" alt="Symbols Computer" > />
+<img src="https://static.vecteezy.com/system/resources/previews/006/662/139/non_2x/artificial-intelligence-ai-processor-chip-icon-symbol-for-graphic-design-logo-web-site-social-media-mobile-app-ui-illustration-free-vector.jpg" width="90px" >
 </div>
 <hr>
 <h2 align= "center">About Me</h2>

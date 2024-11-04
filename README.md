@@ -24,10 +24,10 @@
 <h2 align="center">Projects</h2>
 
 <ul align="center">
-    <li>🤖 ChatBot Builder Platform - Developing a scalable chatbot builder for diverse applications.</li>
-    <li>🌐 AI-powered Backend Systems - Implementing AI algorithms to optimize backend operations.</li>
-    <li>📊 Data Analysis Tools - Creating tools for efficient data analysis and visualization.</li>
-    <li>🏫 SuperTeacher - A web app providing AI tools to help teachers, aimed at enhancing educational productivity.</li>
+    <li>🤖 ChatBot Builder Platform - <img src='https://img.icons8.com/color/48/000000/chatbot.png' width='20px'> Developing a scalable chatbot builder for diverse applications.</li>
+    <li>🌐 AI-powered Backend Systems - <img src='https://img.icons8.com/color/48/000000/artificial-intelligence.png' width='20px'> Implementing AI algorithms to optimize backend operations.</li>
+    <li>📊 Data Analysis Tools - <img src='https://img.icons8.com/color/48/000000/combo-chart.png' width='20px'> Creating tools for efficient data analysis and visualization.</li>
+    <li>🏫 SuperTeacher - <img src='https://img.icons8.com/color/48/000000/school.png' width='20px'> A web app providing AI tools to help teachers, aimed at enhancing educational productivity. This project focuses on simplifying administrative tasks, offering personalized learning suggestions, and leveraging AI to improve the teaching experience.</li>
 </ul>
 
 <h2 align="center">Skills</h2>

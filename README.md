@@ -54,7 +54,7 @@ Artificial Intelligence · Mathematical Modeling · Information Geometry · Rein
 
 <p align="center">
     <a href="www.linkedin.com/in/mohammed-elwardi-🇵🇸-721b8b197" target="_blank"><img src="https://img.icons8.com/color/48/000000/linkedin.png" width="40" height="40"></a>
-    <a href="https://x.com/MohammedElward7" target="_blank"><img src="https://img.icons8.com/color/48/000000/twitter.png" width="40" height="40"></a>
+    <a href="https://x.com/Mohamed82881857" target="_blank"><img src="https://img.icons8.com/color/48/000000/twitter.png" width="40" height="40"></a>
     <a href="mailto:Mohamedelwardi@yahoo.com" target="_blank"><img src="https://img.icons8.com/color/48/000000/email.png" width="40" height="40"></a>
 </p>
 

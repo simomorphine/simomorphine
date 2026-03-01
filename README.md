@@ -42,16 +42,6 @@ Systems that violate humility constraints don't fail morally. They fail mathemat
 
 <hr>
 
-<h2 align="center">Other Projects</h2>
-
-<ul>
-    <li>🏫 <strong>SuperTeacher</strong> — AI tools for teachers. Where the original optimization intuition came from.</li>
-    <li>🤖 <strong>ChatBot Builder Platform</strong> — Scalable chatbot infrastructure for diverse applications.</li>
-    <li>📊 <strong>Data Analysis Tools</strong> — Efficient data analysis and visualization.</li>
-</ul>
-
-<hr>
-
 <h2 align="center">Skills</h2>
 
 <p align="center">

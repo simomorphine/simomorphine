@@ -25,7 +25,7 @@ I didn't set out to build a theory. I set out to understand optimization well en
 <p align="center">Three releases. Three weeks. One unifying idea.</p>
 
 <ul>
-    <li>📊 <strong>Week 1 — Probabilistic Decision Tree</strong>: A bandit algorithm grounded in explicit separation of reward and information gain. Beats existing baselines. Here is the math. Here is the implementation.</li>
+    <li>📊 <strong>Week 1 — Probabilistic Decision Tree</strong>: A bandit algorithm grounded in explicit separation of reward and information gain. Beats existing baselines.</li>
     <li>🔢 <strong>Week 2 — Quantum-Inspired Complex-Valued Neural Network</strong>: What happens when you take the complex quasi-metric Q = d + i·debt seriously as an architectural principle.</li>
     <li>🤖 <strong>Week 3 — The Humble Agent</strong>: An agent that uses complex numbers in ways I don't fully understand yet. I won't claim to know why it works. I'll share what it does and invite you to help figure it out.</li>
 </ul>
@@ -57,7 +57,7 @@ Systems that violate humility constraints don't fail morally. They fail mathemat
 <h2 align="center">Skills</h2>
 
 <p align="center">
-Backend Development · Artificial Intelligence · Mathematical Modeling · Information Geometry · Reinforcement Learning · Python · Flask · Java · C · C++ · Database Architecture · Git
+Artificial Intelligence · Mathematical Modeling · Information Geometry · Reinforcement Learning 
 </p>
 
 <hr>

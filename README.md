@@ -30,8 +30,6 @@ I didn't set out to build a theory. I set out to understand optimization well en
     <li>🤖 <strong>Week 3 — The Humble Agent</strong>: An agent that uses complex numbers in ways I don't fully understand yet. I won't claim to know why it works. I'll share what it does and invite you to help figure it out.</li>
 </ul>
 
-<p align="center">No grand claims. No theory of everything. Just math, code, and honest results.</p>
-
 <hr>
 
 <h2 align="center">The Core Idea</h2>

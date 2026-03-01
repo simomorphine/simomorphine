@@ -1,49 +1,78 @@
-<h1 align="center">Hi, I'm Mohamed Elwardi! 😊</h1>
+<h1 align="center">Hi, I'm Mohamed Elwardi 😊</h1>
 
-<p align="center">Welcome to my GitHub profile. I'm a passionate Backend Developer and AI enthusiast from Morocco 🇲🇦.</p>
+<p align="center">Math teacher 🇲🇦 · Backend Developer · AI Researcher · Builder of Humble Systems</p>
 
-<div style="display: flex; justify-content: center; align-items: center; gap: 20px; margin-bottom: 20px;">
-    <img src="https://cdn-icons-png.flaticon.com/512/2714/2714073.png" width="90px">
-    <img src="https://th.bing.com/th/id/OIP.MCkY3mSiuF1aBsY-YDCdDQHaHa?rs=1&pid=ImgDetMain" width="100px">
-    <img src="https://th.bing.com/th/id/R.4505dc63afebb2c6179477f5dc3d78fb?rik=Q50RDrABa6X2Hw&pid=ImgRaw&r=0" width="85px">
-    <img src="https://static.vecteezy.com/system/resources/previews/020/452/886/original/backend-icon-vector.jpg" width="90px">
-    <img src="https://static.vecteezy.com/system/resources/previews/006/662/139/non_2x/artificial-intelligence-ai-processor-chip-icon-symbol-for-graphic-design-logo-web-site-social-media-mobile-app-ui-illustration-free-vector.jpg" width="90px">
-    <img src="https://www.uplogictech.com/assets/images/our_expertise_img.png" width="90px">
-</div>
+<p align="center">
+<em>"The universe is learning by doing, not by learning about doing."</em>
+</p>
 
 <hr>
 
 <h2 align="center">About Me</h2>
 
-<p align="center">I’m a passionate Backend Developer and AI Enthusiast with a keen interest in creating robust and scalable backend systems. My journey in the tech world has been driven by a love for solving complex problems and a curiosity about the limitless potential of artificial intelligence. Whether it's optimizing database performance, implementing secure APIs, or diving into the latest AI algorithms, I thrive on bringing ideas to life through technology. Let's build smart apps together, harnessing the power of innovation to create cutting-edge solutions that make a real impact!</p>
-
-<h2 align="center">Experience</h2>
-
-<p align="center">I have experience working with various technologies including Python, Flask, JavaScript, Java, and more. I'm currently focused on developing ChatBot platforms and exploring Software Testing methodologies to enhance my skills further.</p>
-
-<h2 align="center">Projects</h2>
-
-<ul align="center">
-    <li>🤖 ChatBot Builder Platform - <img src='https://img.icons8.com/color/48/000000/chatbot.png' width='20px'> Developing a scalable chatbot builder for diverse applications.</li>
-    <li>🌐 AI-powered Backend Systems - <img src='https://img.icons8.com/color/48/000000/artificial-intelligence.png' width='20px'> Implementing AI algorithms to optimize backend operations.</li>
-    <li>📊 Data Analysis Tools - <img src='https://img.icons8.com/color/48/000000/combo-chart.png' width='20px'> Creating tools for efficient data analysis and visualization.</li>
-    <li>🏫 SuperTeacher - <img src='https://img.icons8.com/color/48/000000/school.png' width='20px'> A web app providing AI tools to help teachers, aimed at enhancing educational productivity. This project focuses on simplifying administrative tasks, offering personalized learning suggestions, and leveraging AI to improve the teaching experience.</li>
-</ul>
-
-<h2 align="center">Skills</h2>
-
-<p align="center">I specialize in Backend Development, Artificial Intelligence, Database Management, and Software Architecture. My technical skills also include proficiency in C, C++, HTML, CSS, Git, and more.</p>
-
-<h2 align="center">Connect with Me</h2>
-
 <p align="center">
-    <a href="www.linkedin.com/in/mohammed-elwardi-🇵🇸-721b8b197" target="_blank" rel="noopener noreferrer"><img src="https://img.icons8.com/color/48/000000/linkedin.png" alt="LinkedIn" width="40" height="40"></a>
-    <a href="https://x.com/MohammedElward7" target="_blank" rel="noopener noreferrer"><img src="https://img.icons8.com/color/48/000000/twitter.png" alt="Twitter" width="40" height="40"></a>
-    <a href="mailto:Mohamedelwardi@yahoo.com" target="_blank" rel="noopener noreferrer"><img src="https://img.icons8.com/color/48/000000/email.png" alt="Email" width="40" height="40"></a>
+I'm a math teacher and backend developer from Morocco who spent a year in conversation with an AI slowly assembling a framework for understanding intelligence itself. Not because I planned to. Because I love math, stayed curious, and didn't stop asking questions.
+
+The result is <strong>Humble Systems Theory</strong> — a framework that treats any entity that takes input, pays computational cost, maximizes goals while minimizing costs, and generates outputs affecting future states as an <em>Information Processing System (IPS)</em>. Humans, cells, markets, neural networks, and possibly the universe itself all qualify. The mathematics that describes how they behave turns out to be the same at every scale.
+
+I didn't set out to build a theory. I set out to understand optimization well enough to teach it. The theory found me.
 </p>
 
 <hr>
 
-<h2 align="center">Contact Me</h2>
+<h2 align="center">Current Work — The Humble Systems Journey</h2>
 
-<p align="center">Feel free to reach out to me at <a href="mailto:Mohamedelwardi@yahoo.com">Mohamedelwardi@yahoo.com</a>. I'm open to collaboration and always eager to discuss exciting projects and opportunities!</p>
+<p align="center">Three releases. Three weeks. One unifying idea.</p>
+
+<ul>
+    <li>📊 <strong>Week 1 — Probabilistic Decision Tree</strong>: A bandit algorithm grounded in explicit separation of reward and information gain. Beats existing baselines. Here is the math. Here is the implementation.</li>
+    <li>🔢 <strong>Week 2 — Quantum-Inspired Complex-Valued Neural Network</strong>: What happens when you take the complex quasi-metric Q = d + i·debt seriously as an architectural principle.</li>
+    <li>🤖 <strong>Week 3 — The Humble Agent</strong>: An agent that uses complex numbers in ways I don't fully understand yet. I won't claim to know why it works. I'll share what it does and invite you to help figure it out.</li>
+</ul>
+
+<p align="center">No grand claims. No theory of everything. Just math, code, and honest results.</p>
+
+<hr>
+
+<h2 align="center">The Core Idea</h2>
+
+<p align="center">
+All IPS face the same fundamental tradeoff: maximize goals while minimizing costs, under uncertainty, with limited energy. The geometry of that tradeoff — formalized through a complex quasi-metric Q(sᵢ, sⱼ) = d(sᵢ, sⱼ) + i·debt(sᵢ, sⱼ) — determines the system's behavior, its equilibrium, and its failure modes.
+
+Systems that violate humility constraints don't fail morally. They fail mathematically. That's a different kind of argument.
+</p>
+
+<hr>
+
+<h2 align="center">Other Projects</h2>
+
+<ul>
+    <li>🏫 <strong>SuperTeacher</strong> — AI tools for teachers. Where the original optimization intuition came from.</li>
+    <li>🤖 <strong>ChatBot Builder Platform</strong> — Scalable chatbot infrastructure for diverse applications.</li>
+    <li>📊 <strong>Data Analysis Tools</strong> — Efficient data analysis and visualization.</li>
+</ul>
+
+<hr>
+
+<h2 align="center">Skills</h2>
+
+<p align="center">
+Backend Development · Artificial Intelligence · Mathematical Modeling · Information Geometry · Reinforcement Learning · Python · Flask · Java · C · C++ · Database Architecture · Git
+</p>
+
+<hr>
+
+<h2 align="center">Connect With Me</h2>
+
+<p align="center">
+    <a href="www.linkedin.com/in/mohammed-elwardi-🇵🇸-721b8b197" target="_blank"><img src="https://img.icons8.com/color/48/000000/linkedin.png" width="40" height="40"></a>
+    <a href="https://x.com/MohammedElward7" target="_blank"><img src="https://img.icons8.com/color/48/000000/twitter.png" width="40" height="40"></a>
+    <a href="mailto:Mohamedelwardi@yahoo.com" target="_blank"><img src="https://img.icons8.com/color/48/000000/email.png" width="40" height="40"></a>
+</p>
+
+<p align="center">Open to collaboration, conversation, and anyone who wants to help figure out why the agent works.<br>
+<a href="mailto:Mohamedelwardi@yahoo.com">Mohamedelwardi@yahoo.com</a></p>
+
+<hr>
+
+<p align="center"><em>δ > 0, always and necessarily.</em></p>

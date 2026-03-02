@@ -1,6 +1,6 @@
 <h1 align="center">Hi, I'm Mohamed Elwardi 😊</h1>
 
-<p align="center">Math teacher 🇲🇦 · Backend Developer · AI Researcher · Builder of Humble Systems</p>
+<p align="center">Math teacher 🇲🇦 ·AI Researcher · Builder of Humble Systems</p>
 
 <p align="center">
 <em>"The universe is learning by doing, not by learning about doing."</em>

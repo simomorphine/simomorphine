@@ -11,7 +11,7 @@
 <h2 align="center">About Me</h2>
 
 <p align="center">
-I'm a math teacher and backend developer from Morocco who spent a year in conversation with an AI slowly assembling a framework for understanding intelligence itself. Not because I planned to. Because I love math, stayed curious, and didn't stop asking questions.
+I'm a math teacher from Morocco who spent a year in conversation with an AI slowly assembling a framework for understanding intelligence itself. Not because I planned to. Because I love math, stayed curious, and didn't stop asking questions.
 
 The result is <strong>Humble Systems Theory</strong> — a framework that treats any entity that takes input, pays computational cost, maximizes goals while minimizing costs, and generates outputs affecting future states as an <em>Information Processing System (IPS)</em>. Humans, cells, markets, neural networks, and possibly the universe itself all qualify. The mathematics that describes how they behave turns out to be the same at every scale.
 

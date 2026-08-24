@@ -35,7 +35,7 @@ I didn't set out to build a theory. I set out to understand optimization well en
 <h2 align="center">The Core Idea</h2>
 
 <p align="center">
-All IPS face the same fundamental tradeoff: maximize goals while minimizing costs, under uncertainty, with limited energy. The geometry of that tradeoff — formalized through a complex quasi-metric Q(sᵢ, sⱼ) = d(sᵢ, sⱼ) + i·debt(sᵢ, sⱼ) — determines the system's behavior, its equilibrium, and its failure modes.
+All IPS face the same fundamental tradeoff: maximize goals while minimizing costs, under uncertainty, with limited energy. The geometry of that tradeoff — formalized through a complex oracle Q(sᵢ, sⱼ) = cost(sᵢ, sⱼ) + i·debt(sᵢ, sⱼ) — determines the system's behavior, its equilibrium, and its failure modes.
 
 Systems that violate humility constraints don't fail morally. They fail mathematically. That's a different kind of argument.
 </p>

@@ -98,7 +98,7 @@ The complex structure is intended to represent more than simply adding another n
 <h2 align="center">Skills</h2>
 
 <p align="center">
-Artificial Intelligence · Mathematical Modeling · Information Geometry · Reinforcement Learning · Python · PyTorch · Stochastic Processes · Optimization
+Artificial Intelligence · Mathematical Modeling · Information Geometry · Reinforcement Learning · Python · PyTorch · Physics · Optimization
 </p>
 
 <hr>

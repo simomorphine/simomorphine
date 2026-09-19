@@ -22,7 +22,7 @@ My current focus is a long-term research project emerging from my work on <stron
 <h2 align="center">🔬 Current Focus</h2>
 
 <p align="center">
-<strong>A Humble Philosophical Attempt to Build the Mathematical Foundation for Complex-Valued Reinforcement Learning</strong>
+<strong>Belief Space characterization & Cost Geometry</strong>
 </p>
 
 <p align="center">

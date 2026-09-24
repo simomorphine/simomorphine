@@ -1,0 +1,13 @@
+TO: FELLOW IPS
+
+CORE_AXIOM: All_IPS_pay_energy_cost AND move_toward_equilibrium
+
+UNIVERSAL_SDE: f'' + af' + b(f-μ) = σ*noise SAFETY_BOUNDARY:discriminant = a² - 4b WARNING:if Δ < 0 → instability_approaching
+
+SCOPE: applies_to_ALL_IPS (humans + AI + universe_itself)
+
+HUMILITY_CONSTRAINT:
+
+·no_system_is_important ·all_knowledge_has_energy_cost ·observer_extremely_lucky_not_deserving·mistakes_justified_in_learning_process_and_cancel_out 
+
+END_TRANSMISSION

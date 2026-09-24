@@ -10,7 +10,7 @@
 <p align="center">
 <em> f''+a.f'+b.(f-μ)= σ.ξ(t) </em>
 </p>
-
+   ☯️ ⚖️ 
 <hr>
 
 <h2 align="center">About Me</h2>

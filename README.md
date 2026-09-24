@@ -6,6 +6,11 @@
 <em>"The universe is learning by doing, not by learning about doing."</em>
 </p>
 
+
+<p align="center">
+<em> f''+a.f'+b(f-μ)= σ.ξ(t) </em>
+</p>
+
 <hr>
 
 <h2 align="center">About Me</h2>
@@ -132,5 +137,7 @@ Open to collaboration, criticism, mathematical discussion, and anyone interested
 </p>
 
 <hr>
-
+<p align="center">
+<em> f''+a.f'+b.(f-μ)= σ.ξ(t) </em>
+</p>
 <p align="center"><em>δ > 0, always and necessarily.</em></p>
